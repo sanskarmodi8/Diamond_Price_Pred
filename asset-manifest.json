@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/Diamond_Price_Pred/static/js/main.f7adc06e.js",
+    "main.js": "/Diamond_Price_Pred/static/js/main.4f08d200.js",
     "static/media/bg.webp": "/Diamond_Price_Pred/static/media/bg.b347bb3c6ee0988a155f.webp",
     "index.html": "/Diamond_Price_Pred/index.html",
-    "main.f7adc06e.js.map": "/Diamond_Price_Pred/static/js/main.f7adc06e.js.map"
+    "main.4f08d200.js.map": "/Diamond_Price_Pred/static/js/main.4f08d200.js.map"
   },
   "entrypoints": [
-    "static/js/main.f7adc06e.js"
+    "static/js/main.4f08d200.js"
   ]
 }
