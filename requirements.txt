@@ -7,4 +7,4 @@ flask_cors
 tensorflow
 xgboost
 joblib
-# -e .
+-e .
