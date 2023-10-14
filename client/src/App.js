@@ -44,7 +44,7 @@ function App() {
       return;
     } else {
       setLoading(true);
-      fetch('https://diamondpricepredictor69.azurewebsites.net/', {
+      fetch('https://diamondpricepredictor689.azurewebsites.net/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
