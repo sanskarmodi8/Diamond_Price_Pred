@@ -81,7 +81,23 @@ pip install -r requirements.txt
 python application.py
 ```
 
-5. Open your web browser and go to `http://localhost:5000/predict` to access the Diamond Price Prediction web application.
+5. Go to the client folder
+
+```bash
+cd client
+```
+
+6. Install Dependencies
+
+```bash
+npm install
+```
+
+7. Start your Web application on your localhost
+
+```bash
+npm start
+```
 
 ## Usage
 
