@@ -3,7 +3,10 @@
 This repository contains a machine learning project for predicting diamond prices based on various features such as carat, cut, color, clarity, and more. The project is implemented in Python and utilizes popular libraries like scikit-learn, tensorflow and Flask for model training and web-based prediction.
 
 Live project link - https://sanskarmodi8.github.io/Diamond_Price_Pred/
+
 Flask API is deployed on Azure and React website is hosted on Github Pages.
+
+Deployed Flask API link - https://diamondpricepredictorapp.azurewebsites.net/
 
 This project uses various Models to train on the dataset and the Best model is saved and used for prediction.
 
