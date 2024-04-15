@@ -44,7 +44,7 @@ function App() {
       return;
     } else {
       setLoading(true);
-      fetch('http://localhost:5000/', {
+      fetch('https://diamondpricepredictorapp.azurewebsites.net/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
