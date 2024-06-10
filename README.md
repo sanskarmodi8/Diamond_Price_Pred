@@ -79,7 +79,7 @@ cd Diamond_Price_Pred
 pip install -r requirements.txt
 ```
 
-4. Run the Flask application:
+4. Run the Flask application after setting the port to 8080 in application.py file:
 
 ```bash
 python application.py
